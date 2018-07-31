@@ -54,13 +54,9 @@ This software is free for noncommercial use. This software is provided "as is", 
 This software is based on the MATLAB edition. Thanks for the work of Liao et al. [Project page](http://www.cbsr.ia.ac.cn/users/scliao/projects/npdface/index.html).
 
 > @article{
-
 >      Author = {Shengcai Liao, Member, IEEE, Anil K. Jain, Fellow, IEEE, and Stan Z. Li, Fellow, IEEE},
-
 >      Title = {A Fast and Accurate Unconstrained Face Detector},
-
 >      Year = {2014}
-
 >  }
 
 
